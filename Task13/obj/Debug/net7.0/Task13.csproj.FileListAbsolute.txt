@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.AssemblyInfo.cs
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/bin/Debug/net7.0/Task13
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/bin/Debug/net7.0/Task13.deps.json
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/bin/Debug/net7.0/Task13.runtimeconfig.json
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/bin/Debug/net7.0/Task13.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/bin/Debug/net7.0/Task13.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/refint/Task13.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/Task13.genruntimeconfig.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home2Algorithms/Task13/obj/Debug/net7.0/ref/Task13.dll
